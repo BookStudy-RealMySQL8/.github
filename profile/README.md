@@ -41,7 +41,7 @@
 
 ## 📍스터디 방법
 각자...  
-* 개인공부 : 1주일에 한 챕터씩 각자 공부합니다  
+* 개인공부 : 1주일에 약속한 분량을 각자 공부합니다  
 * 공부인증 : 각자 공부한 내용을 자유로운 방법으로 인증합니다  
   - 채널 : [🐶2. 공부 인증](https://github.com/orgs/BookStudy-RealMySQL8/discussions/categories/2-%EA%B3%B5%EB%B6%80-%EC%9D%B8%EC%A6%9D)  
   - [📕인증방법 가이드](/guide/인증방법.md)
