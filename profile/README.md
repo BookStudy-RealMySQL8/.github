@@ -46,11 +46,11 @@
   - 채널 : [🐶2. 공부 인증](https://github.com/orgs/study-mysql8/discussions/categories/2-%EA%B3%B5%EB%B6%80-%EC%9D%B8%EC%A6%9D)  
   - [인증방법 가이드](/guide/인증방법.md)
 * 공부하면서 인상깊은 부분, 중요하다고 생각하는 부분, 질문, 다른 사람의 의견이 궁금한 부분 등 모임에서 같이 이야기하고 싶은 내용을 작성합니다
-  - 채널 : [🍊의견나눔](https://github.com/orgs/study-mysql8/discussions/categories/%EC%9D%B8%EC%83%81%EA%B9%8A%EC%9D%80%EC%A0%90-%EC%A7%88%EB%AC%B8-%EC%9D%98%EA%B2%AC)
+  - 채널 : [🍊 3. 의견나눔](https://github.com/orgs/study-mysql8/discussions/categories/%EC%9D%B8%EC%83%81%EA%B9%8A%EC%9D%80%EC%A0%90-%EC%A7%88%EB%AC%B8-%EC%9D%98%EA%B2%AC)
   - [의견나눔 작성 가이드](/guide/의견나눔-작성방법.md)
 
 모임에서...
 * 사전준비(10분) : 지각체크,인증체크,발표순서 정하기. 모임록 생성([📣1. 모임기록](https://github.com/orgs/study-mysql8/discussions/categories/1-%EB%AA%A8%EC%9E%84%EA%B8%B0%EB%A1%9D))
 * 요약설명(40분) : 모든 인원이 챕터내 소제목단위로 나누어 책 내용을 요약/설명합니다(인당 10분 이내)
-* 토론(30분) : [🍊의견나눔](https://github.com/orgs/study-mysql8/discussions/categories/%EC%9D%B8%EC%83%81%EA%B9%8A%EC%9D%80%EC%A0%90-%EC%A7%88%EB%AC%B8-%EC%9D%98%EA%B2%AC) 채널에 올라온 글들을 살펴보고 의견을 나눕니다
+* 토론(30분) : [🍊 3. 의견나눔](https://github.com/orgs/study-mysql8/discussions/categories/%EC%9D%B8%EC%83%81%EA%B9%8A%EC%9D%80%EC%A0%90-%EC%A7%88%EB%AC%B8-%EC%9D%98%EA%B2%AC) 채널에 올라온 글들을 살펴보고 의견을 나눕니다
 * 마무리(10분) : 벌금
