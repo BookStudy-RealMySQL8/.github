@@ -7,6 +7,7 @@
 * 매주 토요일 11시
 * 온라인 : [구글밋](https://meet.google.com/yxh-mccj-dbs)
 * 오프라인 : 강남
+* [📄 의견나눔 구글시트](https://docs.google.com/spreadsheets/d/1so884_tBmFC9aVIRsrw-VrwwrkiCyyUy0Dhdiqt3uOQ/edit#gid=1657093272)
 
 ## 제도
 ### 벌금제도
@@ -46,7 +47,7 @@
   - 채널 : [🐶2. 공부 인증](https://github.com/orgs/BookStudy-RealMySQL8/discussions/categories/2-%EA%B3%B5%EB%B6%80-%EC%9D%B8%EC%A6%9D)  
   - [📕인증방법 가이드](/guide/인증방법.md)
 * 의견나눔 작성 : 공부하면서 인상깊은 부분, 중요하다고 생각하는 부분, 질문, 다른 사람의 의견이 궁금한 부분 등 모임에서 같이 이야기하고 싶은 내용을 작성합니다
-  - 채널 : [🍊3. 의견나눔 구글시트](https://docs.google.com/spreadsheets/d/1so884_tBmFC9aVIRsrw-VrwwrkiCyyUy0Dhdiqt3uOQ/edit#gid=1657093272)
+  - 채널 : [📄 의견나눔 구글시트](https://docs.google.com/spreadsheets/d/1so884_tBmFC9aVIRsrw-VrwwrkiCyyUy0Dhdiqt3uOQ/edit#gid=1657093272)
 
 모임에서...
 * 사전준비(10분) : 지각체크,인증체크,발표순서 정하기. 모임록 생성([📣1. 모임기록](https://github.com/orgs/BookStudy-RealMySQL8/discussions/categories/1-%EB%AA%A8%EC%9E%84%EA%B8%B0%EB%A1%9D))
